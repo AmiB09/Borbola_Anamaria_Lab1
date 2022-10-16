@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borbola_Anamaria_Lab1", "Borbola_Anamaria_Lab1.csproj", "{679B5FCC-AF70-4677-97C9-EBF75BB0F4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679B5FCC-AF70-4677-97C9-EBF75BB0F4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679B5FCC-AF70-4677-97C9-EBF75BB0F4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679B5FCC-AF70-4677-97C9-EBF75BB0F4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679B5FCC-AF70-4677-97C9-EBF75BB0F4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD58FC7-5B8C-4681-9F2E-97873193F15B}
+	EndGlobalSection
+EndGlobal
